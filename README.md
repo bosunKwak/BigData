@@ -9,4 +9,14 @@
 - Creating tensor
 - Tensor Operation
 
-## 3. 
+## 3. [Tensor Operation for Mathematics](https://github.com/bosunKwak/BigData/blob/main/Tensor_Operation_for_Mathematics.ipynb)
+- Pointwise Operation
+- Reduction functions
+- Comparison Calculations
+- Linear Algebra
+
+## 4. [Automatic Differntiation(Autograd)](https://github.com/bosunKwak/BigData/blob/main/Tensor_Operation_for_Mathematics.ipynb)
+- Why use this?
+- Examples
+  - f = sum(x^2)
+  - Q = 3a^3 - b^2
