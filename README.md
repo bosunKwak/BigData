@@ -1,4 +1,11 @@
 # BigData
+(참고) [Basic Concept](https://github.com/bosunKwak/BigData/blob/main/basic_concept.md)
+- Perceptron
+- Neural Network
+- Activation Function
+- Loss function
+- Optimizer
+- LeNet5
 
 ## 1. [Pytorch](https://github.com/bosunKwak/BigData/blob/main/Pytorch.ipynb)
 - What is Pytorch?
