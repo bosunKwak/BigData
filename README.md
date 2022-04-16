@@ -29,3 +29,10 @@
 >   - Q = 3a^3 - b^2
 
 ## 5. [OverAll Process](./model_development.ipynb)
+> 1. Data prepartion stage <br>
+>    Load data -> Transform -> Batching (batch 단위로 묶음)
+>
+> 2. Development stage <br>
+>    Design -> Training -> Testing
+>
+> 3. Model Deployment
