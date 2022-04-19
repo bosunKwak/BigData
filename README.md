@@ -35,6 +35,7 @@
 >   - Q = 3a^3 - b^2
 
 ## 5. [OverAll Process](./overall_process.ipynb)
+> - Pytorch를 이용해서 모델을 개발하는 전반적인 과정
 > 1. Data prepartion stage <br>
 >    Load data -> Transform -> Batching (batch 단위로 묶음)
 >
@@ -42,3 +43,6 @@
 >    Design -> Training -> Testing
 >
 > 3. Model Deployment
+
+## 6. [Text Classification](./text_classification.ipynb)
+> - [pytorch를 이용해서 모델을 개발하는 전반적인 과정](./overall_process.ipynb)을 text data를 가지고 실습
