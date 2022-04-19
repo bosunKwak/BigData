@@ -7,6 +7,12 @@
 > - Optimizer
 > - LeNet5
 
+> (참고) [Python Basic Concept](basic_python.ipynb)
+> - Enumerate
+> - comprehension
+> - help 
+> - class & instance
+
 ## 1. [Pytorch](./Pytorch.ipynb)
 > What is Pytorch? <br>
 >   ex) Build a image classifier
