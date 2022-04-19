@@ -28,7 +28,7 @@
 >   - f = sum(x^2)
 >   - Q = 3a^3 - b^2
 
-## 5. [OverAll Process](./model_development.ipynb)
+## 5. [OverAll Process](./overall_process.ipynb)
 > 1. Data prepartion stage <br>
 >    Load data -> Transform -> Batching (batch 단위로 묶음)
 >
