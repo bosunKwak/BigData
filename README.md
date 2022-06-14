@@ -46,3 +46,8 @@
 
 ## 6. [Text Classification](./text_classification.ipynb)
 > - [pytorch를 이용해서 모델을 개발하는 전반적인 과정](./overall_process.ipynb)을 text data를 가지고 실습
+
+# [Transformer](./Transformer.ipynb)
+> - Attention is All you Need (2017) 논문 
+> - [Transformer 코드](./Transformer_code.ipynb)
+> - [RNN 관련 내용](./RNN.ipynb)
